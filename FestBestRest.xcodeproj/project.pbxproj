@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B3A5EAF29B4A6DE00AB5A1C /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0B3A5EAE29B4A6DE00AB5A1C /* SleepCalculator.mlmodel */; };
 		0BBD147429B113C000CFBBC9 /* FestBestRestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BBD147329B113C000CFBBC9 /* FestBestRestApp.swift */; };
 		0BBD147629B113C000CFBBC9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BBD147529B113C000CFBBC9 /* ContentView.swift */; };
 		0BBD147829B113C100CFBBC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BBD147729B113C100CFBBC9 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0B3A5EAE29B4A6DE00AB5A1C /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = SleepCalculator.mlmodel; path = FestBestRest/SleepCalculator.mlmodel; sourceTree = "<group>"; };
 		0BBD147029B113C000CFBBC9 /* FestBestRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FestBestRest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BBD147329B113C000CFBBC9 /* FestBestRestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FestBestRestApp.swift; sourceTree = "<group>"; };
 		0BBD147529B113C000CFBBC9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +37,7 @@
 		0BBD146729B113C000CFBBC9 = {
 			isa = PBXGroup;
 			children = (
+				0B3A5EAE29B4A6DE00AB5A1C /* SleepCalculator.mlmodel */,
 				0BBD147229B113C000CFBBC9 /* FestBestRest */,
 				0BBD147129B113C000CFBBC9 /* Products */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B3A5EAF29B4A6DE00AB5A1C /* SleepCalculator.mlmodel in Sources */,
 				0BBD147629B113C000CFBBC9 /* ContentView.swift in Sources */,
 				0BBD147429B113C000CFBBC9 /* FestBestRestApp.swift in Sources */,
 			);
